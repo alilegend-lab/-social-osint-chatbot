@@ -1,2 +1,21 @@
-# -social-osint-chatbot
- Free and open source OSINT chatbot for educational use only.
+# Social OSINT Chatbot
+
+An open-source educational chatbot for learning and practicing OSINT (Open Source Intelligence).  
+Built with Python, secure environment setup, and community-friendly documentation.
+
+---
+
+## 🚀 Features
+- Chatbot interface for OSINT queries
+- Python-based implementation
+- Secure `.env` environment variable handling
+- Easy setup and usage
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/alilegend-lab/-social-osint-chatbot.git
+cd social-osint-chatbot
