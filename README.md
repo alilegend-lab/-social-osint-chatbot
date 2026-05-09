@@ -16,28 +16,33 @@ Built with Python, secure environment setup, and community-friendly documentatio
 ## 📦 Installation
 
 Clone the repository:
-Linux/Mac
+ ###  1.Linux/Mac
 ```bash   
 pkg install python3 -m venv .venv
 source .venv/bin/activate
-For Window shell.
+```
+### 1.For Window Shell.
 ```bash  
 python -m venv .venv
 .\.venv\Scripts\activate
-```bash
-pip install -r requirements.txt
+```
 
-
+### 2. installation.
 ```bash
 git clone https://github.com/alilegend-lab/-social-osint-chatbot.git
 cd social-osint-chatbot
+```
+
+### 3. Last setup.
+```bash
+pip install -r requirements
+```
 ## ⚙️ Usage
 
 Run the chatbot:
 ```bash
 python main.py
 
-## 🙏 Acknowledgements
-- Inspired by OSINT learning community
+## 🙏 Acknowledgements.
 - Built with Python
 - Thanks to contributors and testers.
